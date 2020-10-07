@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d37915-585c-4234-834a-bdafba1a110e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_async/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_async/async.spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_sync/sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_sync/sync.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_sync/sync.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_sync/sync.spec.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602056421027</updated>
-      <workItem from="1602056422900" duration="4091000" />
+      <workItem from="1602056422900" duration="6998000" />
     </task>
     <servers />
   </component>
