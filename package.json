@@ -1,0 +1,21 @@
+{
+  "name": "unit-test-js",
+  "version": "1.0.0",
+  "description": "jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm runtest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "gshnlgnv",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
+}
